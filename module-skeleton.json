@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-seo-react-inertia",
+  "capabilityKey": "liberusoftware/module-cms-seo",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-cms-seo-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/cms/nextjs/seo.md",
+  "presentationPlan": "projects/cms/react/seo.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
